@@ -23,7 +23,7 @@ eventAllow: function(dropInfo, draggedEvent) {
 }
 ```
 
-The `dropInfo` object has the following properties:
+The `dropInfo` object has the following propertiess:
 
 <table>
 
